@@ -1,0 +1,6 @@
+C:\Users\EVOTEC S.A\source\repos\ExamenFigurasGeometricas\obj\Debug\ExamenFigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\EVOTEC S.A\source\repos\ExamenFigurasGeometricas\bin\Debug\ExamenFigurasGeometricas.exe.config
+C:\Users\EVOTEC S.A\source\repos\ExamenFigurasGeometricas\bin\Debug\ExamenFigurasGeometricas.exe
+C:\Users\EVOTEC S.A\source\repos\ExamenFigurasGeometricas\bin\Debug\ExamenFigurasGeometricas.pdb
+C:\Users\EVOTEC S.A\source\repos\ExamenFigurasGeometricas\obj\Debug\ExamenFigurasGeometricas.exe
+C:\Users\EVOTEC S.A\source\repos\ExamenFigurasGeometricas\obj\Debug\ExamenFigurasGeometricas.pdb
